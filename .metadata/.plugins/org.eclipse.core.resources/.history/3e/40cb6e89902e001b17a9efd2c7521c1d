@@ -1,0 +1,5 @@
+package com.formacionbdi.microservicio.app.usuarios.models.entity;
+
+public class Alumno {
+
+}
